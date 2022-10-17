@@ -4,6 +4,9 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Darlene-java" height="30" width="40" src="./java.png">
+   <img align="center" alt="Darlene-java" height="30" width="40" src="./c.svg">
+   <img align="center" alt="Darlene-java" height="30" width="40" src="./msql.svg">
+   <img align="center" alt="Darlene-java" height="30" width="40" src="./arduino.svg">
   <img align="center" alt="Darlene-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Darlene-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
