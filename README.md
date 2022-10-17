@@ -2,6 +2,13 @@
  <h1>Darlene Silva Leão de Souza</h1>
   <img align="right" alt="Darlene-pic" height="150" style="border-radius:50px;" src="./download20211002233013.png">
 </div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Darlene-java" height="30" width="40" src="./java_original_logo_icon_146458.svg">
+  <img align="center" alt="Darlene-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Darlene-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  ##
+
 
  
 <div> 
