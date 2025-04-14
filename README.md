@@ -15,7 +15,7 @@
  
 <div> 
   <a href = "mailto:darlene.leao.souza10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://www.linkedin.com/in/darleneleaosouza/" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/darleneleaosouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ### Olá eu sou a Darlene, e aqui está algumas informações do meu perfil!
 <div align="center">
