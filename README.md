@@ -1,6 +1,6 @@
 <div style="display: inline_block"><br>
  <h1>Darlene Silva Leão de Souza</h1>
-  <img align="right" alt="Darlene-pic" height="150" style="border-radius:50px;" src="./download20211002233013.png">
+  <img align="right" alt="Darlene-pic" height="150" style="border-radius:50px;" src="./avatar_sem_fundo.svg">
 </div>
 <div style="display: inline_block"><br>
    <img align="center" alt="Darlene-javascript" height="30" width="40" src="./javascript.png">
