@@ -3,12 +3,11 @@
   <img align="right" alt="Darlene-pic" height="150" style="border-radius:50px;" src="./download20211002233013.png">
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Darlene-java" height="30" width="40" src="./java.png">
-   <img align="center" alt="Darlene-java" height="30" width="40" src="./c.svg">
+   <img align="center" alt="Darlene-javascript" height="30" width="40" src="./javascript.png">
+   <img align="center" alt="Darlene-cypress" height="30" width="40" src="./cypress.svg">
+   <img align="center" alt="Darlene-postman" height="30" width="40" src="./postmpng">
+   <img align="center" alt="Darlene-jira" height="30" width="40" src="./jira.png">
    <img align="center" alt="Darlene-java" height="30" width="40" src="./msql.svg">
-   <img align="center" alt="Darlene-java" height="30" width="40" src="./arduino.svg">
-  <img align="center" alt="Darlene-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Darlene-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
   ##
 
