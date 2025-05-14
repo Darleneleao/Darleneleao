@@ -23,7 +23,7 @@
 - Automação de API com Postman  
 - Automação de testes com Cypress  
 
-## 🚀 Minhas Tecnologias em Automação de Testes
+## 🚀 Minhas Tecnologias 
 
 |  <img src="./javascript.svg" alt="JavaScript" width="30"/> | <img src="./cypress.svg" alt="Cypress" width="30"/> | <img src="./postman.svg" alt="Postman" width="30"/> |
 |:--:|:--:|:--:|
