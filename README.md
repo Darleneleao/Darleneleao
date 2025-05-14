@@ -18,7 +18,7 @@
 ## 📚 Especializando em QA
 
 - Software Testing e Processos Scrum   
-- Teste Manual
+- Teste Manual com Jira/Trello
 - Automação Web e API com JavaScript    
 - Automação de API com Postman  
 - Automação de testes com Cypress  
