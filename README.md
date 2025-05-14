@@ -21,13 +21,14 @@
 - Teste Manual com Jira/Trello
 - Automação Web e API com JavaScript    
 - Automação de API com Postman  
-- Automação de testes com Cypress  
+- Automação de testes com Cypress
+- Banco de Dados MySQL 
 
 ## 🚀 Minhas Principais Tecnologias 
 
-| <img src="./javascript.svg" alt="JavaScript" width="30"/> | <img src="./cypress.svg" alt="Cypress" width="30"/> | <img src="./postman.svg" alt="Postman" width="30"/> | <img src="./jira.svg" alt="Jira" width="30"/> |
-|:--:|:--:|:--:|:--:|
-| JavaScript | Cypress | Postman | Jira |
+| <img src="./javascript.svg" alt="JavaScript" width="30"/> | <img src="./cypress.svg" alt="Cypress" width="30"/> | <img src="./postman.svg" alt="Postman" width="30"/> | <img src="./jira.svg" alt="Jira" width="30"/> | <img src="./msql.svg" alt="MySQL" width="30"/> |
+|:--:|:--:|:--:|:--:|:--:|
+| JavaScript | Cypress | Postman | Jira | MySQL |
 
 
 
