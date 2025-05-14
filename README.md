@@ -1,23 +1,32 @@
-<div style="display: inline_block"><br>
- <h1>Darlene Souza</h1>
-  <img align="right" alt="Darlene-pic" height="150" style="border-radius:50px;" src="./avatar_sem_fundo.svg">
-</div>
-<div style="display: inline_block"><br>
-   <img align="center" alt="Darlene-javascript" height="30" width="40" src="./javascript.svg">
-   <img align="center" alt="Darlene-cypress" height="30" width="40" src="./cypress.svg">
-   <img align="center" alt="Darlene-postman" height="30" width="40" src="./postman.svg">
-   <img align="center" alt="Darlene-jira" height="30" width="40" src="./jira.svg">
-   <img align="center" alt="Darlene-java" height="30" width="40" src="./msql.svg">
+## 👋 Olá, me chamo Darlene!
 
-  ##
+<img align="right" alt="Darlene-pic" height="150" style="border-radius:50px;" src="./avatar_sem_fundo.svg">
 
+### Sobre mim
 
- 
-<div> 
-  <a href = "mailto:darlene.leao.souza10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/darleneleaosouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+- 🎓 **Formada em Sistemas de Informação** pelo IFSULDEMINAS – Campus Machado/MG  
+- 💼 **Experiência como Estagiária** em Análise e Desenvolvimento de Sistemas na **Youx Group**  
+- 🛠️ Participação em projeto de extensão acadêmico com foco em **desenvolvimento de software**
+- 🚀 Atualmente em especialização na área de **Quality Assurance (QA)** com mentoria pela **Lume Stack**
   
-  ### Olá eu sou a Darlene, e aqui está algumas informações do meu perfil!
+### 📫 Contato
+
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darlene.leao.souza10@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darleneleaosouza/)
+---
+
+## 🚀 Minhas Tecnologias
+
+| Tecnologia | Nome         |
+|------------|--------------|
+| <img src="./javascript.svg" alt="JavaScript" width="30"/> | JavaScript |
+| <img src="./cypress.svg" alt="Cypress" width="30"/>       | Cypress    |
+| <img src="./postman.svg" alt="Postman" width="30"/>       | Postman    |
+| <img src="./jira.svg" alt="Jira" width="30"/>             | Jira       |
+| <img src="./msql.svg" alt="MySQL" width="30"/>            | MySQL      |
+
+
+  ### Aqui está algumas informações do meu perfil!
 <div align="center">
   <a href="https://github.com/marisavieira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Darleneleao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
