@@ -15,15 +15,19 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darleneleaosouza/)
 ---
 
-## 🚀 Minhas Tecnologias
+## 📚 Especializando em QA
 
-| Tecnologia | Nome         |
-|------------|--------------|
-| <img src="./javascript.svg" alt="JavaScript" width="30"/> | JavaScript |
-| <img src="./cypress.svg" alt="Cypress" width="30"/>       | Cypress    |
-| <img src="./postman.svg" alt="Postman" width="30"/>       | Postman    |
-| <img src="./jira.svg" alt="Jira" width="30"/>             | Jira       |
-| <img src="./msql.svg" alt="MySQL" width="30"/>            | MySQL      |
+- Software Testing e Processos Scrum   
+- Teste Manual
+- Automação Web e API com JavaScript    
+- Automação de API com Postman  
+- Automação de testes com Cypress  
+
+## 🚀 Minhas Tecnologias principais em automação de testes
+
+| <img src="./javascript.svg" alt="JavaScript" width="30"/> | <img src="./cypress.svg" alt="Cypress" width="30"/> | <img src="./postman.svg" alt="Postman" width="30"/> |
+|:--:|:--:|:--:|
+| JavaScript | Cypress | Postman |
 
 
   ### Aqui está algumas informações do meu perfil!
