@@ -23,11 +23,12 @@
 - Automação de API com Postman  
 - Automação de testes com Cypress  
 
-## 🚀 Minhas Tecnologias 
+## 🚀 Minhas Principais Tecnologias 
 
-|  <img src="./javascript.svg" alt="JavaScript" width="30"/> | <img src="./cypress.svg" alt="Cypress" width="30"/> | <img src="./postman.svg" alt="Postman" width="30"/> |
-|:--:|:--:|:--:|
-| JavaScript | Cypress | Postman |
+| <img src="./javascript.svg" alt="JavaScript" width="30"/> | <img src="./cypress.svg" alt="Cypress" width="30"/> | <img src="./postman.svg" alt="Postman" width="30"/> | <img src="./jira.svg" alt="Jira" width="30"/> |
+|:--:|:--:|:--:|:--:|
+| JavaScript | Cypress | Postman | Jira |
+
 
 
 
